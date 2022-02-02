@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <iframe src="https://jaimystaging.be/fr/service/lp/boiler-maintenance-iframe/?utm_source=YOUR_COMPANY_NAME" height="517" width="460" title="Jaimy by Belfius boiler maintenance" />
+        <iframe src="https://jaimystaging.be/fr/service/lp/boiler-maintenance-iframe/?utm_source=YOUR_COMPANY_NAME" height="517" width="460" title="Jaimy by Belfius boiler maintenance" frameBorder="0" />
 
       </main>
 
