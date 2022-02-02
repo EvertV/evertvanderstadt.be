@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Evert Vanderstadt - CTO</title>
+        <title>Evert Vanderstadt</title>
         <meta name="description" content="" />
         {/* <link rel="icon" href="/favicon.ico" /> */}
       </Head>
@@ -26,7 +26,7 @@ export default function Home() {
             <p>View my professional experience</p>
           </a>
 
-          <a
+          {/* <a
             href="mailto:hello@evertvanderstadt.be"
             className={styles.card}
           >
@@ -34,7 +34,7 @@ export default function Home() {
             <p>
               Let&apos;s get in touch, either via email or a LinkedIn message!
             </p>
-          </a>
+          </a> */}
         </div>
       </main>
 
